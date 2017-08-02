@@ -25,6 +25,7 @@ class ViewController: UIViewController {
     
     func test(){
         //Comentario al iniciar la funcion test
+        //desde el server
             
     }
 
